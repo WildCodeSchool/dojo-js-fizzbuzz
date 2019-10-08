@@ -1,4 +1,3 @@
-const assert = require("assert");
 const fizzBuzz = require("./fizzBuzz.js");
 
 describe("fizzBuzz", () => {
