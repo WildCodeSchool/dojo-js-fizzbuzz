@@ -33,11 +33,11 @@ describe("fizzBuzz", () => {
     });
 
     it("Should return 2", () => {
-        expect(fizzBuzz(2)).toBe("2");
+        expect(fizzBuzz(2)).toBe(2);
     });
 
     it("Should return 8 and 52", () => {
-        expect(fizzBuzz(8)).toBe("8");
-        expect(fizzBuzz(52)).toBe("52");
+        expect(fizzBuzz(8)).toBe(8);
+        expect(fizzBuzz(52)).toBe(52);
     });
 });
