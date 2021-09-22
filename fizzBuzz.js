@@ -1,4 +1,4 @@
-const fizzBuzz = () => {
+function fizzBuzz(){
   // Start here
 };
 
